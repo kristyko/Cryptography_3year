@@ -3,7 +3,7 @@ This repository contains my laboratory works from Cryptography classes:
 - AES
   - AES-128 (keygen, encryption, decryption)
   - Block cipher mode of operation - CBC, CTR for AES-128
-- SHA-2
+- SHA
   - SHA-256
   - key generation for AES-128
   - HMAC-sha256
